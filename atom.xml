@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Sylvester&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://sylvester.top/"/>
+  <updated>2020-07-12T13:54:16.480Z</updated>
+  <id>http://sylvester.top/</id>
+  
+  <author>
+    <name>Sylvester</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>my_bookmaker</title>
+    <link href="http://sylvester.top/2020/07/12/my-bookmaker/"/>
+    <id>http://sylvester.top/2020/07/12/my-bookmaker/</id>
+    <published>2020-07-12T11:42:37.000Z</published>
+    <updated>2020-07-12T13:54:16.480Z</updated>
+    
+    <content type="html"><![CDATA[<p>搜索引擎</p><p><a href="www.baidu.com">百度</a>    <a href="www.google.com">谷歌</a>    <a href="www.bing.com">必应</a>    <a href="http://www.soso.com/" target="_blank" rel="noopener">搜搜</a>    <a href="https://www.sogou.com/" target="_blank" rel="noopener">搜狗</a></p><p>视频网站</p><p><a href="https://www.bilibili.com/" target="_blank" rel="noopener">bilibili</a>    <a href="https://www.acfun.cn/" target="_blank" rel="noopener">ACFUN</a>    <a href="https://v.qq.com/" target="_blank" rel="noopener">腾讯视频</a>    <a href="https://www.mgtv.com/" target="_blank" rel="noopener">芒果TV</a>    <a href="https://www.youku.com/" target="_blank" rel="noopener">优酷视频</a>    <a href="https://www.iqiyi.com/" target="_blank" rel="noopener">爱奇艺</a>    <a href="http://www.pptv.com/" target="_blank" rel="noopener">PP视频</a></p><p>翻译</p><p><a href="https://translate.google.com/" target="_blank" rel="noopener">谷歌翻译</a>    <a href="http://fanyi.youdao.com/" target="_blank" rel="noopener">有道翻译</a>    <a href="https://fanyi.baidu.com/" target="_blank" rel="noopener">百度翻译</a>    <a href="https://fanyi.sogou.com/" target="_blank" rel="noopener">搜狗翻译</a></p><p>编程相关</p><ul><li><p>OJ</p><p><a href="https://pintia.cn" target="_blank" rel="noopener">PTA</a>    <a href="http://codeforces.com/" target="_blank" rel="noopener">CodeForces</a>    <a href="http://train.usaco.org" target="_blank" rel="noopener">USACO</a>    <a href="https://cn.vjudge.net/" target="_blank" rel="noopener">Virtual Judge</a>    <a href="http://codeup.cn" target="_blank" rel="noopener">Codeup</a>    <a href="http://poj.org/" target="_blank" rel="noopener">POJ</a>    <a href="https://www.luogu.com.cn/" target="_blank" rel="noopener">洛谷</a></p></li><li><p>算法</p><p><a href="https://labuladong.gitbook.io" target="_blank" rel="noopener">labuladong的算法小抄</a>     <a href="https://visualgo.net/zh" target="_blank" rel="noopener">Visualgo</a></p></li><li><p>求职</p><p><a href="https://leetcode-cn.com/" target="_blank" rel="noopener">Leetcode</a>    <a href="https://www.nowcoder.com/" target="_blank" rel="noopener">牛客网</a>    </p></li></ul><p>学术资源</p><p><a href="https://www.sciencedirect.com/" target="_blank" rel="noopener">ScienceDirect</a>    <a href="https://ieeexplore.ieee.org/" target="_blank" rel="noopener">IEEE</a> <a href="https://scholar.google.com/" target="_blank" rel="noopener">谷歌学术</a>    <a href="https://www.cnki.net/" target="_blank" rel="noopener">中国知网</a>    <a href="https://xueshu.baidu.com/" target="_blank" rel="noopener">百度学术</a></p><p><a href="https://x.cnki.net/search" target="_blank" rel="noopener">知网研学</a></p><p>电子书资源</p><p><a href="https://www.duxiu.com/" target="_blank" rel="noopener">读秀</a></p><p>Photos</p><p><a href="https://unsplash.com/" target="_blank" rel="noopener">unsplash</a>    <a href="https://wallhaven.cc/" target="_blank" rel="noopener">wallhaven</a>    <a href="https://www.58pic.com/" target="_blank" rel="noopener">千图网</a>    </p><p>技术</p><p><a href="https://github.com/" target="_blank" rel="noopener">GitHub</a>    <a href="https://gitee.com/" target="_blank" rel="noopener">码云</a>    <a href="https://www.v2ex.com/" target="_blank" rel="noopener">V2EX</a>    <a href="https://www.51cto.com/" target="_blank" rel="noopener">51CTO</a>    <a href="https://www.jianshu.com/" target="_blank" rel="noopener">简书</a>    <a href="https://www.cnblogs.com/" target="_blank" rel="noopener">博客园</a>    <a href="https://www.csdn.net/" target="_blank" rel="noopener">CSDN</a>    <a href="https://www.oschina.net/" target="_blank" rel="noopener">OSCHINA</a></p><p>资讯</p><ul><li><p>安全</p><p><a href="http://www.securitytube.net/" target="_blank" rel="noopener">SecurityTube</a>    <a href="https://www.freebuf.com/" target="_blank" rel="noopener">FreeBuf</a></p></li></ul><p>论坛</p><p><a href="https://www.zhihu.com/" target="_blank" rel="noopener">知乎</a>    <a href="https://www.aihao.cc" target="_blank" rel="noopener">爱好论坛</a>    <a href="https://www.52pojie.cn/" target="_blank" rel="noopener">52破解</a>    </p><p>软件分享</p><p><a href="http://www.dayanzai.me/" target="_blank" rel="noopener">大眼仔</a>    <a href="https://sylvester.imfast.io/" target="_blank" rel="noopener">…</a></p><p>小东西</p><p><a href="https://ankiweb.net/decks/" target="_blank" rel="noopener">Anki</a>    <a href="https://ipaperclip.net/" target="_blank" rel="noopener">回形针</a>    <a href="http://www.sozi.cn/" target="_blank" rel="noopener">免费字体</a>    <a href="https://www.wolframalpha.com/" target="_blank" rel="noopener">WolframAlpha</a>    </p><p>建站工具</p><p><a href="http://www.coolsite360.com/" target="_blank" rel="noopener">意派</a>    </p><p>卡盟</p><p><a href="http://cczxsong.112ka.com/" target="_blank" rel="noopener">112ka</a>    <a href="http://cczxsong.qq31.cn/" target="_blank" rel="noopener">qq31</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;搜索引擎&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;www.baidu.com&quot;&gt;百度&lt;/a&gt;    &lt;a href=&quot;www.google.com&quot;&gt;谷歌&lt;/a&gt;    &lt;a href=&quot;www.bing.com&quot;&gt;必应&lt;/a&gt;    &lt;a href=&quot;http://www.sos
+      
+    
+    </summary>
+    
+    
+    
+      <category term="书签" scheme="http://sylvester.top/tags/%E4%B9%A6%E7%AD%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://sylvester.top/2020/07/12/hello-world/"/>
+    <id>http://sylvester.top/2020/07/12/hello-world/</id>
+    <published>2020-07-12T10:19:46.407Z</published>
+    <updated>2020-07-12T10:19:46.407Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
